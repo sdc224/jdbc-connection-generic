@@ -6,7 +6,7 @@
   <name>Generic Jdbc Connection</name>
   <description>Generic Jdbc Connection</description>
   <properties>  	
-	<version.mysql-connector-java>5.1.13</version.mysql-connector-java>  
+	<version.mysql-connector-java>8.0.16</version.mysql-connector-java>  
   </properties>
   <dependencies>
 	<dependency>
